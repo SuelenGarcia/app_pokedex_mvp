@@ -1,6 +1,6 @@
 # pokedex
 
-A new Flutter project.
+Meu primeiro app com uma arquitetura de software, nesse caso, usei MVP.
 
 ## Getting Started
 
