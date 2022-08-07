@@ -1,6 +1,6 @@
 # pokedex
 
-Meu primeiro app com uma arquitetura de software, nesse caso, usei MVP.
+Meu primeiro app com uma arquitetura de software, nesse caso, usei MVP. Também usei o gerenciamente de estado Provider.
 
 ## Getting Started
 
